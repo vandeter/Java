@@ -1,18 +1,2 @@
-# MyBatisÑ§Ï°µÄÔ´Âë
-##Í¬²½²©¿ÍµØÖ·£ºhttp://blog.csdn.net/column/details/smybatis.html
-##Ä¿Â¼£¨³ÖĞø¸üĞÂ£©
-<font size=3>[ºê¹ÛÉÏ°ÑÎÕMyBatis¿ò¼Ü](http://blog.csdn.net/eson_15/article/details/51582967)
-<br/><font size=3>[×ß½øMyBatisµÄÊÀ½ç](http://blog.csdn.net/eson_15/article/details/51592608)
-<br/><font size=3>[Ô­Ê¼dao¿ª·¢·½·¨¼°Æä±×¶Ë](http://blog.csdn.net/eson_15/article/details/51598500)
-<br/><font size=3>[mapper´úÀí·½·¨¿ª·¢dao](http://blog.csdn.net/eson_15/article/details/51601204)
-<br/><font size=3>[SqlMapConfig.xmlÎÄ¼şÖĞµÄÅäÖÃ×Ü½á](http://blog.csdn.net/eson_15/article/details/51604171)
-<br/><font size=3>[ÊäÈëÓ³ÉäºÍÊä³öÓ³Éä](http://blog.csdn.net/eson_15/article/details/51637873)
-<br/><font size=3>[¶¯Ì¬sql](http://blog.csdn.net/eson_15/article/details/51649245)
-<br/><font size=3>[¸ß¼¶Ó³ÉäÖ®Ò»¶ÔÒ»²éÑ¯](http://blog.csdn.net/eson_15/article/details/51648140)
-<br/><font size=3>[¸ß¼¶Ó³ÉäÖ®Ò»¶Ô¶à²éÑ¯](http://blog.csdn.net/eson_15/article/details/51648904)
-<br/><font size=3>[¸ß¼¶Ó³ÉäÖ®¶à¶Ô¶à²éÑ¯](http://blog.csdn.net/eson_15/article/details/51655188)
-<br/><font size=3>[MyBatisÖĞµÄÑÓ³Ù¼ÓÔØ](http://blog.csdn.net/eson_15/article/details/51668523)
-<br/><font size=3>[MyBatisÖĞµÄÒ»¼¶»º´æ](http://blog.csdn.net/eson_15/article/details/51669021)
-<br/><font size=3>[MyBatisÖĞµÄ¶ş¼¶»º´æ](http://blog.csdn.net/eson_15/article/details/51669608)
-<br/><font size=3>[MyBatisºÍSpringÕûºÏ](http://blog.csdn.net/eson_15/article/details/51684968)
-<br/><font size=3>[MyBatisµÄÄæÏò¹¤³ÌÉú³É´úÂë](http://blog.csdn.net/eson_15/article/details/51694684)
+# MyBatiså­¦ä¹ çš„æºç 
+##åŒæ­¥åšå®¢åœ°å€ï¼šhttps://blog.csdn.net/vandet100/article/details/82978162
